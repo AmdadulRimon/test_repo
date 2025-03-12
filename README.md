@@ -105,4 +105,4 @@ Once Git and Node.js are installed, follow these steps to download and set up th
 This will launch the website on your local machine for you to view and make adjustments.
 
 
-## How You Can Customize the Site
+### How You Can Customize the Site
