@@ -10,7 +10,6 @@ This is an open-source portfolio platform designed specifically for thumbnail de
 - [Install the Project](#install-the-project)
   - [Install Git](#install-git)
   - [Install Node.js](#install-nodejs)
-- [How to Use the Project](#how-to-use-the-project)
 - [Get Started](#get-started)
   - [Install Process](#install-process)
   - [Run Process](#run-process)
@@ -29,8 +28,8 @@ Git is a tool for downloading the project from GitHub. If you don’t have Git i
    - On Windows, run the installer and select the default settings.
    - On macOS, you may need to install Homebrew first and use `brew install git`.
 
-After installation, verify that Git is installed by opening a terminal (or Git Bash on Windows) and typing:
-
+    After installation, verify that Git is installed by opening a terminal (or Git Bash on Windows) and typing:
+     
     ```bash
     git --version
     ```
@@ -45,7 +44,7 @@ Node.js is required to run the website locally. It also helps to manage project 
 
 2. **Install Node.js**: Download the latest LTS version and follow the installation instructions for your operating system.
 
-3. After installation, verify that Node.js is installed by opening a terminal (or Command Prompt on Windows) and typing:
+   After installation, verify that Node.js is installed by opening a terminal (or Command Prompt on Windows) and typing:
 
     ```bash
     node --version
@@ -60,6 +59,8 @@ Node.js is required to run the website locally. It also helps to manage project 
 If both commands return version numbers, Node.js is set up correctly.
 
 ## Get Started
+
+To get started with the portfolio website, you need to clone this repository and install the necessary dependencies. If you're not familiar with Git or Node.js, follow the steps below.
 
 ### Install Process
 
